@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi there! Welcome to my GitHub
+I'm an aspiring web developer with a background in digital marketing and interpretation. Here's a little more about me:
 
-<!--
-**kdomarat27/kdomarat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ What I Do
+🌐 Currently learning web development and exploring front-end and back-end technologies.
+🎓 MBA graduate with a focus on analytical thinking and problem-solving.
+📈 2 years of experience in digital marketing, combining creativity and strategy to deliver results.
+🌟 What Drives Me
+🚀 Passionate about creating functional, user-friendly websites that solve real-world problems.
+🔍 Constantly learning new skills and embracing challenges to grow in my development journey.
+🌐 Languages
+💬 Trilingual: Ukrainian, Russian, and English.
+💡 Looking to Collaborate On
+Beginner-friendly web development projects.
+Digital marketing campaigns or website optimization tasks.
+📫 Let’s Connect!
+📧 Email: kdomarat@gmail.com
+Feel free to reach out at if you'd like to collaborate, share ideas, or just chat about coding and tech!
