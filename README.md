@@ -1,7 +1,6 @@
 👋 Hi there! Welcome to my GitHub
 I'm an aspiring web developer with a background in digital marketing and interpretation. Here's a little more about me:
 
-🛠️ What I Do
 🌐 Currently learning web development and exploring front-end and back-end technologies.
 🎓 MBA graduate with a focus on analytical thinking and problem-solving.
 📈 2 years of experience in digital marketing, combining creativity and strategy to deliver results.
